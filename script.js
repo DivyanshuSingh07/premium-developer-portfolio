@@ -53,7 +53,7 @@ const portfolioConfig = {
     {
       number: "04",
       title: "FINTRACK PRO",
-      description: "A personalized finance tracking web application.",
+      description: "A personalized finance tracking and managing web application.",
       technologies: ["HTML", "CSS", "JAVASCRIPT"],
       image: "./assets/project-4.jpg",
       github: "https://github.com/DivyanshuSingh07/Fintrack-Pro",

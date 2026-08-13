@@ -233,16 +233,6 @@ function initHeroAnimations() {
       stagger: 0.12,
       ease: "power4.out",
     })
-    // .to(".hero-image-mask", {
-    //   clipPath: "inset(0 0 0 0)",
-    //   duration: 1.35,
-    //   ease: "power4.inOut"
-    // }, "-=.75")
-    // .to(".hero-image", {
-    //   scale: 1,
-    //   duration: 1.6,
-    //   ease: "power3.out"
-    // }, "<")
     .to(".hero-image-mask", {
       clipPath: "inset(0)",
       duration: 1.35,
